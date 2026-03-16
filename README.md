@@ -1,6 +1,17 @@
 # 💫 About Me:
-I am a passionate developer specializing in Artificial Intelligence, Computer Vision, and Embedded Systems, with hands-on experience building real-world intelligent solutions. My work focuses on integrating AI models with hardware and web applications to solve practical problems such as disaster prediction, fraud detection, and smart monitoring systems.<br><br>I have experience working with ESP32, Raspberry Pi, sensors, and computer vision, as well as developing full-stack applications using React, JavaScript, and Python. I enjoy designing systems that combine data, AI, and real-time decision-making.<br><br>I am particularly interested in:<br><br>Artificial Intelligence & Machine Learning<br><br>Computer Vision & Intelligent Monitoring Systems<br><br>Embedded Systems & IoT Development<br><br>Full-Stack Web Development<br><br>Building real-world, impactful technology solutions<br><br>I am continuously learning and building projects to deepen my expertise and contribute to innovative AI-driven technologies.
 
+I'm a developer specializing in **Artificial Intelligence**, **Computer Vision**, and **Embedded Systems**, with hands-on experience building real-world intelligent solutions. My work focuses on integrating AI models with hardware and web applications to solve practical problems — from disaster prediction and fraud detection to smart monitoring systems.
+
+I work with **ESP32**, **Raspberry Pi**, sensors, and computer vision pipelines, alongside full-stack development using **React**, **JavaScript**, and **Python**. I enjoy designing systems where data, AI, and real-time decision-making come together to create tangible impact.
+
+**Currently focused on:**
+- 🤖 Artificial Intelligence & Machine Learning
+- 👁️ Computer Vision & Intelligent Monitoring Systems
+- 🔌 Embedded Systems & IoT Development
+- 🌐 Full-Stack Web Development
+- 🚀 Building real-world, impactful technology solutions
+
+I'm continuously learning and building — driven by a belief that the most meaningful technology lives at the intersection of intelligence and the physical world.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/risikesan26) 
