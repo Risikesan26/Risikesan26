@@ -1,29 +1,168 @@
-# 💫 About Me:
+<div align="center">
 
-I'm a developer specializing in **Artificial Intelligence**, **Computer Vision**, and **Embedded Systems**, with hands-on experience building real-world intelligent solutions. My work focuses on integrating AI models with hardware and web applications to solve practical problems — from disaster prediction and fraud detection to smart monitoring systems.
+<!-- Animated Living Identity Banner -->
+<!---->
 
-I work with **ESP32**, **Raspberry Pi**, sensors, and computer vision pipelines, alongside full-stack development using **React**, **JavaScript**, and **Python**. I enjoy designing systems where data, AI, and real-time decision-making come together to create tangible impact.
+<br/>
 
-**Currently focused on:**
-- 🤖 Artificial Intelligence & Machine Learning
-- 👁️ Computer Vision & Intelligent Monitoring Systems
-- 🔌 Embedded Systems & IoT Development
-- 🌐 Full-Stack Web Development
-- 🚀 Building real-world, impactful technology solutions
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&random=false&width=750&height=60&lines=Hi!+I'm+risikesan26+%F0%9F%91%8B" alt="Typing SVG" />
+</a>
 
-I'm continuously learning and building — driven by a belief that the most meaningful technology lives at the intersection of intelligence and the physical world.
+<br/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/risikesan26) 
+<img src="https://komarev.com/ghpvc/?username=risikesan26&label=PLAYER+VIEWS&color=00FF41&style=for-the-badge&labelColor=0D1117" alt="views"/>
+<img src="https://img.shields.io/github/followers/risikesan26?label=ALLIES&style=for-the-badge&color=00F0FF&labelColor=0D1117&logo=github" alt="followers"/>
+<img src="https://img.shields.io/github/stars/risikesan26?label=LOOT&style=for-the-badge&color=FF00E5&labelColor=0D1117&logo=github" alt="stars"/>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Risikesan26&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Risikesan26&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Risikesan26&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Risikesan26&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🐱 About Me
+
+<div align="center">
+
+<!---->
+
+</div>
+
+## ⚔️ `> cat inventory.txt` — Skill Tree
+
+<div align="center">
+
+**🧠 Languages**
+
+<img src="https://skillicons.dev/icons?i=py,c,java,js,html,css,r&theme=dark" />
+
+**🌐 Frameworks & Libraries**
+
+<img src="https://skillicons.dev/icons?i=react,flask,django,nodejs,tailwind,bootstrap&theme=dark" />
+
+<em>✏️ The tools you reach for, in a sentence.</em>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+
+**🗄️ Databases & DevOps**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git,linux,docker,vscode&theme=dark" />
+
+**🧩 DSA & Problem Solving**
+
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+
+</div>
+
+---
+
+## 📊 `> ./stats --player=risikesan26`
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=risikesan26&show_icons=true&hide_border=false&bg_color=0D1117&title_color=00FF41&icon_color=00F0FF&text_color=C9D1D9&border_color=00FF41&ring_color=FF00E5&include_all_commits=true&count_private=true&custom_title=%F0%9F%8E%AE%20PLAYER%20STATS" />
+<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=risikesan26&layout=compact&hide_border=false&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&border_color=00F0FF&langs_count=8&custom_title=%E2%9A%94%EF%B8%8F%20WEAPON%20MASTERY" />
+
+<img src="https://streak-stats.demolab.com?user=risikesan26&theme=dark&background=0D1117&border=00FF41&ring=FF00E5&fire=FF00E5&currStreakNum=00FF41&sideNums=00F0FF&currStreakLabel=00F0FF&sideLabels=C9D1D9&dates=8B949E&stroke=00FF41" />
+
+</div>
+
+---
+
+## 🏆 `> unlock --achievements`
+
+<div align="center">
+
+<img src="https://github-trophies.vercel.app/?username=risikesan26&theme=matrix&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" />
+
+</div>
+
+---
+
+## 📈 `> tail -f /var/log/commits.log`
+
+<div align="center">
+
+<!---->
+
+</div>
+
+---
+
+## 🐍 `> ./snake.exe --eat=contributions`
+
+<div align="center">
+
+<!---->
+
+</div>
+
+---
+
+## 🎯 `> cat current_quests.log`
+
+```diff
++ [ACTIVE]    🚀 Building: Data Science & ML Projects
++ [ACTIVE]    📚 Learning: AI/ML, Deep Learning, React
++ [ACTIVE]    💻 Grinding: DSA & Competitive Programming
+! [PENDING]   📊 Goal: Publish research in Data Science
+! [PENDING]   🌐 Shipping: Full-stack data-driven web apps
+- [LOCKED]    👑 Boss Fight: Land a dream role in Data Science / AI
+```
+
+<div align="center">
+
+| 🕹️ Stat | ▰▰▰▰▰▰▰▰▱▱ | Level |
+|:--|:--|:--|
+| 🐍 Python | `████████░░` | **80%** |
+| 📊 Data Science | `███████░░░` | **70%** |
+| 🧠 AI / ML | `██████░░░░` | **60%** |
+| ⚛️ React | `██████░░░░` | **60%** |
+| 🏗️ DSA | `███████░░░` | **70%** |
+| ☕ Caffeine | `██████████` | **MAX** |
+
+</div>
+
+---
+
+## 🎧 `> now_playing --mode=focus`
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/♪_Lo--Fi_/_Synthwave_/_Focus_Beats-0D1117?style=for-the-badge&logo=spotify&logoColor=00FF41&labelColor=0D1117&color=00FF41" />
+
+</div>
+
+---
+
+## 📡 `> ping --connect`
+
+<div align="center">
+
+<a href="https://github.com/risikesan26"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF&color=00F0FF" /></a>
+<a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41&color=00FF41" /></a>
+<a href="https://www.linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&color=0A66C2" /></a>
+<a href="https://www.instagram.com/not_avi_20/"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F&color=E4405F" /></a>
+
+<br/><br/>
+
+```bash
+$ echo "There is no spoon. Only data." | lolcat
+$ python3 -c "print('Hello, World! 🧠')"
+$ exit 0   # GAME OVER? Nah — INSERT COIN TO CONTINUE 🪙
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=140&section=footer&text=INSERT%20COIN%20TO%20CONTINUE&fontSize=26&fontColor=00FF41&animation=twinkling&fontAlignY=68" width="100%"/>
+
+</div>
+
+<!-- badge-auto: badge-pr-1 pr1 -->
+
+<p align="center"><sub>Risikesan · <a href="https://www.gitskins.com/readme-generator?template=community-night-shift-zckz">Night Shift</a> template by <a href="https://www.gitskins.com/creators/Avijit010325">@Avijit010325</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
